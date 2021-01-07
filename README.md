@@ -7,6 +7,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=radoslawdabrowski&show_icons=true&locale=en" alt="radoslawdabrowski" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radoslawdabrowski&show_icons=true&locale=en&layout=compact" alt="radoslawdabrowski" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=radoslawdabrowski&" alt="radoslawdabrowski" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radoslawdabrowski&show_icons=true&locale=en&layout=compact" alt="radoslawdabrowski" />
 </p>
