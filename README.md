@@ -5,8 +5,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radoslawdabrowski" alt="radoslawdabrowski" /></a> </p>
 
-<div>
-  <img style="display:block; margin: 0 auto" src="https://github-readme-stats.vercel.app/api?username=radoslawdabrowski&show_icons=true&locale=en" alt="radoslawdabrowski" />
-  <img style="display:block; margin: 0 auto"  src="https://github-readme-stats.vercel.app/api/top-langs?username=radoslawdabrowski&show_icons=true&locale=en&layout=compact" alt="radoslawdabrowski" />
-  <img style="display:block; margin: 0 auto"  src="https://github-readme-streak-stats.herokuapp.com/?user=radoslawdabrowski&" alt="radoslawdabrowski" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=radoslawdabrowski&show_icons=true&locale=en" alt="radoslawdabrowski" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radoslawdabrowski&show_icons=true&locale=en&layout=compact" alt="radoslawdabrowski" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radoslawdabrowski&" alt="radoslawdabrowski" />
+</p>
