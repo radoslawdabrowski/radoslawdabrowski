@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Roche",
+    "city": "Warsaw",
+    "country": "Poland",
+    "experience": [
+      {
+        "title": "Solution Architect",
+        "from": "2021-04-01",
+        "to": null,
+        "projects": [
+          {
+            "name": "Mobile Verification App",
+            "from": "2021-04-01",
+            "to": null,
+            "description": "Application used to verify Roche medicine codes",
+            "responsibilities": [
+              "Designing architecture of services and integrations",
+              "Implementing backend services and frontend webapp",
+              "Managing AWS infrastructure"
+            ],
+            "technologies": [
+              "Java",
+              "Spring Boot",
+              "DynamoDB",
+              "Angular",
+              "AWS",
+              "Docker"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
